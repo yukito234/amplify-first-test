@@ -1,5 +1,5 @@
 # amplify-first-test
-
+vue cliのプロジェクトをaws amplifyのhosting機能を使ってデプロイしてみる。
 ## Project setup
 ```
 npm install
